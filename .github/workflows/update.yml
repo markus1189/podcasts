@@ -2,7 +2,7 @@ name: "Run Update"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '0 */6 * * *'
 jobs:
   podcasts:
     runs-on: ubuntu-latest
