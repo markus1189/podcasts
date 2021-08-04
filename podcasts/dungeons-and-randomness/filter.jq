@@ -1,4 +1,4 @@
-"https://github.com/markus1189/podcasts/blob/main/podcasts/dungeons-and-randomness/image?raw=true" as $image |
+"https://github.com/markus1189/podcasts/blob/main/podcasts/dungeons-and-randomness/image.jpg?raw=true" as $image |
 1493617025 as $tstart |
 (.rss.channel.item |
   map(
